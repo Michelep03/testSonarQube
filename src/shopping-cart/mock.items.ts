@@ -11,7 +11,7 @@ export const mockItems: any[] = [
     productName: 'Apples',
     productId: '002',
     quantity: 4,
-    price: 22,
+    price: 24,
   },
   {
     icon: '🥕',
