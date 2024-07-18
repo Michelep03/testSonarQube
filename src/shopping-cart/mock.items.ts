@@ -18,6 +18,6 @@ export const mockItems: any[] = [
     productName: 'Carrots',
     productId: '003',
     quantity: 1,
-    price: 32,
+    price: 12,
   },
 ];
