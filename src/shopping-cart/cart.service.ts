@@ -39,10 +39,8 @@ export class CartService {
       const item = currentCart.items.find((i) => i.productId === productId);
 
       if (item) {
-        currentCart.totalAmount -= item.price * item.quantity;
-        currentCart.items = currentCart.items.filter(
-          (i) => i.productId !== productId
-        );
+        currentCart.totalAmount -= item.price
+        item.quantity--
       }
 
       return currentCart;

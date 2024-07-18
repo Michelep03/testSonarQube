@@ -7,7 +7,7 @@ import { Component, Input } from '@angular/core';
     <div>
       <span class="item-icon">{{ item.icon }}</span>
       <span class="item-details">
-        <b>{{ item.productName }}</b> - {{ item.quantity }} x £{{ item.price }}
+        <b>{{ item.productName }}</b> - {{ item.quantity }} x €{{ item.price }}
       </span>
     </div>
   `,
