@@ -1,6 +1,0 @@
-projectKey=testSonarQube
-serverUrl=http://localhost:9000
-serverVersion=10.6.0.92116
-dashboardUrl=http://localhost:9000/dashboard?id=testSonarQube
-ceTaskId=64f71501-4c36-4ed0-aa9a-b67566570ad9
-ceTaskUrl=http://localhost:9000/api/ce/task?id=64f71501-4c36-4ed0-aa9a-b67566570ad9
