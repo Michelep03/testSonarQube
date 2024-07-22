@@ -1,5 +1,0 @@
-sonar.projectKey=testSonarQube
-sonar.sources=.
-sonar.host.url=http://localhost:9000
-sonar.login=sqp_b05c6813ef8ff53537277350224b7ec90a415413
-# sonar.password=123qwe
